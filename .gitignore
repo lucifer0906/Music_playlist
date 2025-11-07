@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+env/
+*.egg-info/
+dist/
+build/
+
+# Streamlit
+.streamlit/
+
+# C compiled files
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Playlist data
+playlist_data.csv
+*.csv
+
+# Test files
+test_playlist
+test_playlist.exe
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
